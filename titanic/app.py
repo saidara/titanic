@@ -27,7 +27,7 @@ def result():
     print(X)
 
 
-    model_path = r'C:\Users\shanm\OneDrive\Desktop\titanic\model\rf.sav'
+    model_path = r'C:\Users\shanm\OneDrive\Desktop\titanic\model\dtc1.sav'
 
     model = joblib.load(model_path)
 
